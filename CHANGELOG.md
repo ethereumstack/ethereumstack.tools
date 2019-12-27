@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.0...1.0.1) (2019-12-27)
+
+
+### Bug Fixes
+
+* **mobile:** maxWidth + hide search ([de268c7](https://github.com/ethereumstack/ethereumstack.tools/commit/de268c7c620516b98a016d600c68d9e1983cb996))
+
 # 1.0.0 (2019-12-27)
 
 
