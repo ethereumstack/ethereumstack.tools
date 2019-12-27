@@ -34,7 +34,10 @@ const MyApp: React.FC = () => {
             </Hidden>
             <Grid item>
               <Tooltip title={"An index of open-source chain-agnostic Ethereum tools"}>
-                <IconButton>
+                <IconButton
+                  onClick={() =>
+                    window.open("https://github.com/ethereumstack/ethereumstack.tools")
+                  }>
                   <HelpIcon />
                 </IconButton>
               </Tooltip>
