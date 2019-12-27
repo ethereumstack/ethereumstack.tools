@@ -1,3 +1,10 @@
+# 1.0.0 (2019-12-27)
+
+
+### Bug Fixes
+
+* document text ([ff01c25](https://github.com/ethereumstack/ethereumstack.tools/commit/ff01c25ecec35a6c75a2e2a9a7b6c4a9f07adabf))
+
 # 1.0.0 (2019-10-24)
 
 
