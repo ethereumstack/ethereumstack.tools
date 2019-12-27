@@ -1,7 +1,7 @@
 [
   {
     "name": "Ethereum JSON RPC Specification",
-    "description": "An OpenRPC document that describes the JSON-RPC interface to be implemented by client developers. It contains the tooling and scripts to automate producing artifacts for consuming the JSON-RPC API (interactive docs, clients, etc).",
+    "description": "An OpenRPC Document that describes the JSON-RPC interface to be implemented by client developers. It contains the tooling and scripts to automate producing artifacts for consuming the JSON-RPC API (interactive docs, clients, etc).",
     "logoUrl": "https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png",
     "url": "https://github.com/etclabscore/ethereum-json-rpc-specification"
   },
