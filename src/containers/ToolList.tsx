@@ -17,7 +17,7 @@ const ToolList: React.FC<IProps> = ({ tools }) => {
     <>
       {
         tools.map((tool) => (
-          <Card elevation={1} key={tool.name} style={{width: "500px", marginBottom: "10px"}}>
+          <Card elevation={1} key={tool.name} style={{width: "100%", marginBottom: "10px"}}>
             <CardHeader title={tool.name} avatar={
               <Avatar {...{variant: "square"}} alt={tool.name} src={tool.logoUrl}/>
             }/>
