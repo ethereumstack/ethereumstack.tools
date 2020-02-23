@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.2...1.0.3) (2020-02-23)
+
+
+### Bug Fixes
+
+* add signatory ([1168085](https://github.com/ethereumstack/ethereumstack.tools/commit/116808530c4fc13bd2c90d3c45cedc643174639a))
+
 ## [1.0.2](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.1...1.0.2) (2019-12-27)
 
 
