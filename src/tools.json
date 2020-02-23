@@ -21,6 +21,12 @@
     "name": "Jade",
     "description": "Jade is an opinionated JSON-RPC service manager, that provides daemonization, installation, and discovery for JSON-RPC based services.",
     "logoUrl": "https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png",
-    "url": "https://github.com/etclabscore/jade-service-runner"
+    "url": "https://jade.builders"
+  },
+  {
+    "name": "Signatory",
+    "description": "Signatory is an offline transaction and message signer for the Ethereum Stack",
+    "logoUrl": "https://user-images.githubusercontent.com/10556209/73570773-a07fb900-4432-11ea-8ed1-3bf525af04d9.png",
+    "url": "https://signatory.dev"
   }
 ]
