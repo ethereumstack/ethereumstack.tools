@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.1...1.0.2) (2019-12-27)
+
+
+### Bug Fixes
+
+* link ([6db6cee](https://github.com/ethereumstack/ethereumstack.tools/commit/6db6cee2b369cc8bddf00ec2e3f10db554fc8de5))
+
 ## [1.0.1](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.0...1.0.1) (2019-12-27)
 
 
