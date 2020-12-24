@@ -28,5 +28,11 @@
     "description": "Signatory is an offline transaction and message signer for the Ethereum Stack",
     "logoUrl": "https://user-images.githubusercontent.com/10556209/73570773-a07fb900-4432-11ea-8ed1-3bf525af04d9.png",
     "url": "https://signatory.dev"
+  },
+  {
+    "name": "Sig.tools",
+    "description": "sig.tools is a tool to enable the offline distributed generation and management of cryptographic accounts for the Ethereum Stack.",
+    "logoUrl": "https://user-images.githubusercontent.com/364566/103103674-85ccaa80-45d7-11eb-862a-6d89926c4e8d.png",
+    "url": "https://sig.tools"
   }
 ]
