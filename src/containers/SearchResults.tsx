@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Divider from "./Divider";
 
-interface Tool {
+export interface ITool {
   logoUrl: string;
   summary?: string;
   description?: string;
@@ -12,7 +12,7 @@ interface Tool {
 
 interface IProps {
   searchQuery: string;
-  tools: Tool[];
+  tools: ITool[];
 }
 
 const SearchResults: React.FC<IProps> = (props) => {

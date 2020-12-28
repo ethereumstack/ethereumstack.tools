@@ -23,7 +23,7 @@ const ToolsPage: React.FC<IProps> = (props) => {
                 <img className="h-20 w-20" src={tool.logoUrl} alt={tool.name} />
               </div>
             </a>
-          )
+          );
         })}
       </div>
       {map(groupedTools, (t: any, category: string) => (

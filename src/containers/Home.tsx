@@ -12,7 +12,9 @@ const Home: React.FC<IProps> = (props) => {
       <div className="hero w-full  bg-purple-600 p-5 mb-1 select-none pb-8">
         <div className="max-w-screen-xl">
           <div className="text-8xl uppercase mb-4">Ethereum Classic Developer Tools</div>
-          <div className="w-96 leading-normal text-gray-400">With these tools at your fingertips, the internet has no bounds.</div>
+          <div className="w-96 leading-normal text-gray-400">
+            With these tools at your fingertips, the internet has no bounds.
+          </div>
         </div>
       </div>
       <div className="flex justify-around p-4 w-full">
@@ -28,7 +30,7 @@ const Home: React.FC<IProps> = (props) => {
                 <img className="h-20 w-20" src={tool.logoUrl} alt={tool.name} />
               </div>
             </a>
-          )
+          );
         })}
       </div>
       <div className="api-tools p-6">
