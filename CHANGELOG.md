@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.1...1.1.2) (2020-12-28)
+
+
+### Bug Fixes
+
+* s/Api/API ([3c3685b](https://github.com/ethereumstack/ethereumstack.tools/commit/3c3685b35133b7555c1f859479e87e84d72aa6e8))
+* s/Api/API/g ([9fe73cf](https://github.com/ethereumstack/ethereumstack.tools/commit/9fe73cf095daf09e0ea86b820c5d4135d1c83b68))
+
 ## [1.1.1](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.0...1.1.1) (2020-12-28)
 
 
