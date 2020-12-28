@@ -6,7 +6,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "craco start",
-    "build": "craco build",
+    "build": "craco build && cp build/index.html build/404.html",
     "lint": "tslint --fix -p .",
     "test": "npm run lint && craco test --coverage --passWithNoTests"
   },
