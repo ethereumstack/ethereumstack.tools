@@ -1,6 +1,5 @@
 import React, { useState, ChangeEvent } from "react";
 import useDarkMode from "use-dark-mode";
-import ToolList from "./ToolList";
 import Sidebar from "./Sidebar";
 import Home from "./Home";
 import SearchResults from "./SearchResults";
