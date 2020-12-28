@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.2...1.1.3) (2020-12-28)
+
+
+### Bug Fixes
+
+* homepage api section ([45daa4c](https://github.com/ethereumstack/ethereumstack.tools/commit/45daa4c27508d0e1ea80863705ad66a8484ea7ad))
+
 ## [1.1.2](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.1...1.1.2) (2020-12-28)
 
 
