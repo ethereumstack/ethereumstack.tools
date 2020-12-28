@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.0...1.1.1) (2020-12-28)
+
+
+### Bug Fixes
+
+* add 404 for gh-pages build ([02464a3](https://github.com/ethereumstack/ethereumstack.tools/commit/02464a3850ca570f2ee130561ec59b8a8b64aa50))
+
 # [1.1.0](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.3...1.1.0) (2020-12-28)
 
 
