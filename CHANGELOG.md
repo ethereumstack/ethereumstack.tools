@@ -1,3 +1,19 @@
+# [1.1.0](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.3...1.1.0) (2020-12-28)
+
+
+### Bug Fixes
+
+* add sig.tools ([b6a7769](https://github.com/ethereumstack/ethereumstack.tools/commit/b6a7769adbe7b6fe2a8165fc75fdda6c580d19d6))
+* circle node version ([5338b34](https://github.com/ethereumstack/ethereumstack.tools/commit/5338b345687a23d7a2e790596e18e9003826b43c))
+* linting ([2c5005f](https://github.com/ethereumstack/ethereumstack.tools/commit/2c5005f43cb6887dae68e163a1463e1f8dfe9b5f))
+* node version ([79e1032](https://github.com/ethereumstack/ethereumstack.tools/commit/79e1032f53a2c4669c5a305d7d09e15e566c703c))
+* remove unused code ([6ec8a2a](https://github.com/ethereumstack/ethereumstack.tools/commit/6ec8a2aecc2b4d7c190ca63eba244f859de233eb))
+
+
+### Features
+
+* replace material-ui with tailwind ([50801f6](https://github.com/ethereumstack/ethereumstack.tools/commit/50801f6c34d0482b7ae0dac64cac269af3203867))
+
 ## [1.0.3](https://github.com/ethereumstack/ethereumstack.tools/compare/1.0.2...1.0.3) (2020-02-23)
 
 
