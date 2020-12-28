@@ -35,8 +35,8 @@ const Home: React.FC<IProps> = (props) => {
       </div>
       <div className="api-tools p-6">
         <div className="flex justify-between">
-          <h2 className="capitalize font-normal mb-8 text-gray-500 text-xl">
-            api
+          <h2 className="font-normal mb-8 text-gray-500 text-xl">
+            API
           </h2>
           <div>
             <Link to="/tools" className="text-blue-500 text-l">See All</Link>
