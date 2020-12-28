@@ -43,7 +43,7 @@ const Home: React.FC<IProps> = (props) => {
           </div>
         </div>
         <div className="grid grid-cols-2">
-          {tools.filter((tool) => tool.category === "api").map((tool, index) => {
+          {tools.filter((tool) => tool.category === "API").map((tool, index) => {
             return (
               <a href={tool.url}>
                 <div className={`${index % 2 === 0 ? "mr-2" : "ml-2"} rounded-lg flex cursor-pointer select-none`}>
