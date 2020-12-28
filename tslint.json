@@ -3,6 +3,7 @@
     "tslint:recommended"
   ],
   "rules": {
+    "no-empty-interface": false,
     "ordered-imports": false,
     "object-literal-sort-keys": false,
     "no-console": [true, "log"],
