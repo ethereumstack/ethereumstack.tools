@@ -53,7 +53,7 @@ jobs:
   release:
     <<: *defaults
     docker:
-      - image: circleci/node:10
+      - image: circleci/node:15
     steps:
       - checkout
       - restore_cache: *restore-deps-cache
