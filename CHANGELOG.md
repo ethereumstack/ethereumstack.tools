@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.3...1.1.4) (2020-12-31)
+
+
+### Bug Fixes
+
+* use better resolution expedition logo ([f5c841e](https://github.com/ethereumstack/ethereumstack.tools/commit/f5c841e2d94a4eec5b70c3c8e2e0fcb17555c252))
+
 ## [1.1.3](https://github.com/ethereumstack/ethereumstack.tools/compare/1.1.2...1.1.3) (2020-12-28)
 
 
